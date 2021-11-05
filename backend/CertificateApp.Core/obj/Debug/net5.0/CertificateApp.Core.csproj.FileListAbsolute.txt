@@ -1,0 +1,12 @@
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\bin\Debug\net5.0\CertificateApp.Core.deps.json
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\bin\Debug\net5.0\CertificateApp.Core.dll
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\bin\Debug\net5.0\ref\CertificateApp.Core.dll
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\bin\Debug\net5.0\CertificateApp.Core.pdb
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\obj\Debug\net5.0\CertificateApp.Core.csprojAssemblyReference.cache
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\obj\Debug\net5.0\CertificateApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\obj\Debug\net5.0\CertificateApp.Core.AssemblyInfoInputs.cache
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\obj\Debug\net5.0\CertificateApp.Core.AssemblyInfo.cs
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\obj\Debug\net5.0\CertificateApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\obj\Debug\net5.0\CertificateApp.Core.dll
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\obj\Debug\net5.0\ref\CertificateApp.Core.dll
+C:\Users\Osman\source\repos\CerificateApp\CertificateApp.Core\obj\Debug\net5.0\CertificateApp.Core.pdb

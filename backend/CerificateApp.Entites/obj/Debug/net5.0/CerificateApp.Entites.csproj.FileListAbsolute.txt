@@ -1,0 +1,15 @@
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\bin\Debug\net5.0\CerificateApp.Entites.deps.json
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\bin\Debug\net5.0\CerificateApp.Entites.runtimeconfig.json
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\bin\Debug\net5.0\CerificateApp.Entites.runtimeconfig.dev.json
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\bin\Debug\net5.0\CerificateApp.Entites.dll
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\bin\Debug\net5.0\ref\CerificateApp.Entites.dll
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\bin\Debug\net5.0\CerificateApp.Entites.pdb
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\obj\Debug\net5.0\CerificateApp.Entites.csprojAssemblyReference.cache
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\obj\Debug\net5.0\CerificateApp.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\obj\Debug\net5.0\CerificateApp.Entites.AssemblyInfoInputs.cache
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\obj\Debug\net5.0\CerificateApp.Entites.AssemblyInfo.cs
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\obj\Debug\net5.0\CerificateApp.Entites.csproj.CoreCompileInputs.cache
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\obj\Debug\net5.0\CerificateApp.Entites.dll
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\obj\Debug\net5.0\ref\CerificateApp.Entites.dll
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\obj\Debug\net5.0\CerificateApp.Entites.pdb
+C:\Users\Osman\source\repos\CerificateApp\CerificateApp.Entites\obj\Debug\net5.0\CerificateApp.Entites.genruntimeconfig.cache
